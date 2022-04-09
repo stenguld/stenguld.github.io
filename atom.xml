@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stenguld.github.io</id>
     <title>StenGuld</title>
-    <updated>2022-04-09T05:46:04.658Z</updated>
+    <updated>2022-04-09T06:04:26.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stenguld.github.io"/>
     <link rel="self" href="https://stenguld.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://stenguld.github.io/images/avatar.png</logo>
     <icon>https://stenguld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, StenGuld</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://stenguld.github.io/post/hello-world/</id>
+        <link href="https://stenguld.github.io/post/hello-world/">
+        </link>
+        <updated>2022-04-09T06:00:19.000Z</updated>
+        <content type="html"><![CDATA[<p>终于、终于、终于建成了<br>
+几经周折，不断调试<br>
+终于看到一点效果了<br>
+虽然不太理想<br>
+但是已经到达自己的预期了<br>
+希望接下来我能坚持做好这件事<br>
+相信自己一定会做到<br>
+未来可期</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://stenguld.github.io/post/hello-gridea/</id>
