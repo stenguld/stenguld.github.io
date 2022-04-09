@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stenguld.github.io</id>
     <title>StenGuld</title>
-    <updated>2022-04-09T15:30:23.292Z</updated>
+    <updated>2022-04-09T15:53:09.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stenguld.github.io"/>
     <link rel="self" href="https://stenguld.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://stenguld.github.io/images/avatar.png</logo>
     <icon>https://stenguld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, StenGuld</rights>
+    <entry>
+        <title type="html"><![CDATA[如何过好我的每一天]]></title>
+        <id>https://stenguld.github.io/post/ru-he-guo-hao-wo-de-mei-yi-tian/</id>
+        <link href="https://stenguld.github.io/post/ru-he-guo-hao-wo-de-mei-yi-tian/">
+        </link>
+        <updated>2022-04-09T15:36:28.000Z</updated>
+        <content type="html"><![CDATA[<p>经历了繁忙的一周之后，但突然又不知道自己该做些什么了<br>
+昨天打完球后，今天感觉腰酸背痛<br>
+吃了午饭后睡了一个午觉<br>
+醒来已经下午时分<br>
+窗外下起了淅淅小雨<br>
+我一直想找到一种让自己满意的状态<br>
+但是一直在寻找却始终没有找到<br>
+希望我能尽快找到吧<br>
+我不想再这样浑浑噩噩的浪费我的生命了<br>
+每一天对我而言都是珍贵的<br>
+希望我能如偿所愿<br>
+希望我不辜负自己<br>
+同时也不辜负他人的期望<br>
+加油吧<br>
+我在未来等你<br>
+<img src="https://stenguld.github.io/post-images/1649519551894.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://stenguld.github.io/post/hello-world/</id>
