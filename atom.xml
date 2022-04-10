@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stenguld.github.io</id>
     <title>StenGuld</title>
-    <updated>2022-04-09T16:05:46.927Z</updated>
+    <updated>2022-04-10T15:47:05.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stenguld.github.io"/>
     <link rel="self" href="https://stenguld.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://stenguld.github.io/images/avatar.png</logo>
     <icon>https://stenguld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, StenGuld</rights>
+    <entry>
+        <title type="html"><![CDATA[一个月]]></title>
+        <id>https://stenguld.github.io/post/yi-ge-yue/</id>
+        <link href="https://stenguld.github.io/post/yi-ge-yue/">
+        </link>
+        <updated>2022-04-10T15:38:27.000Z</updated>
+        <content type="html"><![CDATA[<p>今天已经是回来刚好一个月了<br>
+在这一个月的时间里<br>
+我又做了些什么呢<br>
+好像什么也没做<br>
+一个月<br>
+说长不长<br>
+说短不短<br>
+今天理了发<br>
+练练吉他<br>
+四处走走<br>
+除此之外<br>
+好像也没做啥<br>
+希望接下来的一个月我能过得充实<br>
+不辜负自己<br>
+不蹉跎岁月<img src="https://stenguld.github.io/post-images/1649605615433.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何过好我的每一天]]></title>
         <id>https://stenguld.github.io/post/ru-he-guo-hao-wo-de-mei-yi-tian/</id>
