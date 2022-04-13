@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stenguld.github.io</id>
     <title>StenGuld</title>
-    <updated>2022-04-13T12:41:36.675Z</updated>
+    <updated>2022-04-13T13:43:58.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stenguld.github.io"/>
     <link rel="self" href="https://stenguld.github.io/atom.xml"/>
@@ -10,4 +10,36 @@
     <logo>https://stenguld.github.io/images/avatar.png</logo>
     <icon>https://stenguld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, StenGuld</rights>
+    <entry>
+        <title type="html"><![CDATA[第一天]]></title>
+        <id>https://stenguld.github.io/post/di-yi-tian/</id>
+        <link href="https://stenguld.github.io/post/di-yi-tian/">
+        </link>
+        <updated>2022-04-13T12:41:46.000Z</updated>
+        <content type="html"><![CDATA[<p>该说的 都说了<br>
+你懂得 就够了<br>
+真的有 某一种悲哀<br>
+连说也不想说<br>
+只能 叹息<br>
+我最大的悲哀<br>
+是你的承诺 与我有关<br>
+没有句点 已经很无语了<br>
+何必重新 开始<br>
+没做到<br>
+还能说什么呢<br>
+我连 伤感 都是<br>
+奢侈的<br>
+我一悔恨 你就重复<br>
+但终究 你都不能<br>
+让我到 回不去的 曾经<br>
+原来我不快乐<br>
+只是不愿承认<br>
+在我怀疑 自己时<br>
+你给过我 什么<br>
+我感觉到绝望<br>
+是看见你失败<br>
+曾经亲手把自己毁掉<br>
+可惜我 没有了 机会</p>
+]]></content>
+    </entry>
 </feed>
