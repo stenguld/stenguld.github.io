@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stenguld.github.io</id>
     <title>StenGuld</title>
-    <updated>2022-04-13T13:50:25.793Z</updated>
+    <updated>2022-04-14T15:29:38.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stenguld.github.io"/>
     <link rel="self" href="https://stenguld.github.io/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://stenguld.github.io/images/avatar.png</logo>
     <icon>https://stenguld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, StenGuld</rights>
+    <entry>
+        <title type="html"><![CDATA[第2天]]></title>
+        <id>https://stenguld.github.io/post/di-2-tian/</id>
+        <link href="https://stenguld.github.io/post/di-2-tian/">
+        </link>
+        <updated>2022-04-14T15:18:47.000Z</updated>
+        <content type="html"><![CDATA[<p>上课——吃饭——睡觉——上课——散步——吃饭——学习<br>
+日复一日<br>
+我不要自由自在的生活<br>
+我需要井然有序的生活<br>
+只有这样<br>
+我的每一天才能过得充实<br>
+如果让我自由安排<br>
+我的每一天都会是昨天的重复<br>
+而且是无意义的循环往复<br>
+我真的需要一种充实的状态<br>
+每一分<br>
+每一天<br>
+我不祈求你一整天都用在学习上<br>
+但是我需要看到你每一天都花时间在学习上<br>
+比如今天<br>
+只要你愿意学习<br>
+时间总是有的<br>
+无论你学习代码<br>
+还是学习音乐<br>
+只要你在做有意义的事<br>
+那就是我希望的样子<br>
+每日问问自己<br>
+我今天做到了吗？          做到了<br>
+我还有什么不足之处？    还需要具体详细的规划<br>
+我明天有何安排？          洗衣服、上课、学习</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第1天]]></title>
         <id>https://stenguld.github.io/post/di-yi-tian/</id>
