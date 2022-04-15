@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stenguld.github.io</id>
     <title>StenGuld</title>
-    <updated>2022-04-14T15:29:38.093Z</updated>
+    <updated>2022-04-15T15:58:00.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stenguld.github.io"/>
     <link rel="self" href="https://stenguld.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://stenguld.github.io/images/avatar.png</logo>
     <icon>https://stenguld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, StenGuld</rights>
+    <entry>
+        <title type="html"><![CDATA[第3天]]></title>
+        <id>https://stenguld.github.io/post/di-3-tian/</id>
+        <link href="https://stenguld.github.io/post/di-3-tian/">
+        </link>
+        <updated>2022-04-15T15:37:25.000Z</updated>
+        <content type="html"><![CDATA[<p>洗衣服——上课——打扫房间——阅读——购物——吃饭——学习<br>
+今天星期五<br>
+中规中矩的一天<br>
+中午没有睡午觉<br>
+下课上网课<br>
+讲了将近二十分钟<br>
+也不知道何时多了一个人<br>
+傍晚时分<br>
+下起了大雨<br>
+我坐在窗前<br>
+伴随着雨声<br>
+阅读《百年孤独》<br>
+晚上学语言<br>
+这就是我的一天<br>
+我今天做到了吗？          做到了<br>
+我还有什么不足之处？    时间分配不均衡<br>
+我明天有何安排？          如果鞋晒干了就去爬旗山、否则就认真学习，下午打打球、散步都可以。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第2天]]></title>
         <id>https://stenguld.github.io/post/di-2-tian/</id>
