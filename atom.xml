@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stenguld.github.io</id>
     <title>StenGuld</title>
-    <updated>2022-04-16T16:12:57.089Z</updated>
+    <updated>2022-04-17T15:23:36.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stenguld.github.io"/>
     <link rel="self" href="https://stenguld.github.io/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://stenguld.github.io/images/avatar.png</logo>
     <icon>https://stenguld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, StenGuld</rights>
+    <entry>
+        <title type="html"><![CDATA[第5天]]></title>
+        <id>https://stenguld.github.io/post/di-5-tian/</id>
+        <link href="https://stenguld.github.io/post/di-5-tian/">
+        </link>
+        <updated>2022-04-17T15:07:48.000Z</updated>
+        <content type="html"><![CDATA[<p>阅读——吃饭——看视频——睡午觉——吃饭——散步——学习<br>
+昨天的计划被打乱<br>
+今早从雨声中惊醒过来<br>
+准备收鞋却早被打湿<br>
+计划被打乱<br>
+看了一节《百年孤独》<br>
+又看了一集视频解析<br>
+睡了一个午觉<br>
+醒来发现又开始下雨了<br>
+延迟到下午的计划也泡汤了<br>
+没有办法<br>
+只能下次有空再去旗山了<br>
+但是我还是要出去走走<br>
+于是吃完饭就沿着前程大道散步<br>
+直到晚上九点多才返回<br>
+今天步数突破了2万步<br>
+回来后又继续学习<br>
+此时已是将近11点半<br>
+这就是一天<br>
+还是一样的问题<br>
+琐碎时间太多<br>
+没有合理安排好任务点<br>
+希望能尽快调整<br>
+我今天做到了吗？            做到了<br>
+我还有什么不足之处？      做事考虑不周全，计划混乱、没有条理<br>
+我明天有何安排？            早中晚满课，但是尽量抽出时间来学习</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第4天]]></title>
         <id>https://stenguld.github.io/post/di-4-tian/</id>
