@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stenguld.github.io</id>
     <title>StenGuld</title>
-    <updated>2022-04-20T00:36:41.883Z</updated>
+    <updated>2022-04-20T15:44:01.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stenguld.github.io"/>
     <link rel="self" href="https://stenguld.github.io/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://stenguld.github.io/images/avatar.png</logo>
     <icon>https://stenguld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, StenGuld</rights>
+    <entry>
+        <title type="html"><![CDATA[第8天]]></title>
+        <id>https://stenguld.github.io/post/di-8-tian/</id>
+        <link href="https://stenguld.github.io/post/di-8-tian/">
+        </link>
+        <updated>2022-04-20T15:30:54.000Z</updated>
+        <content type="html"><![CDATA[<p>上课——吃饭——溜达——开会——散步——吃饭<br>
+今天又是忙碌的一天<br>
+早晨四节课<br>
+还要赶作业<br>
+中午收作业<br>
+本想去取快递<br>
+但是没有找到<br>
+但是回来快递员就送到了<br>
+看了一会儿书<br>
+收一收作业<br>
+晚上开班会<br>
+通知要被关在宿舍三周<br>
+我不知道该怎么面对一切<br>
+还没有吃饭<br>
+于是就出去买菜<br>
+回来吃完饭已经是晚上十一点半<br>
+明天又是满课的一天<br>
+上完课其他的一点都不想再碰<br>
+这样的日子何时才是个头<br>
+希望一切都会好起来吧<br>
+今天我做到了吗              做到了<br>
+我还要什么不足之处        做好十足的准备、迎接未知的一切<br>
+我明天有何安排              确定好要不要暂缓、想明白自己要做什么以及该如何做</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第7天]]></title>
         <id>https://stenguld.github.io/post/di-7-tian/</id>
