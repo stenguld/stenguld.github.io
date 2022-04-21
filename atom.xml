@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stenguld.github.io</id>
     <title>StenGuld</title>
-    <updated>2022-04-20T15:44:01.260Z</updated>
+    <updated>2022-04-21T14:16:10.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stenguld.github.io"/>
     <link rel="self" href="https://stenguld.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://stenguld.github.io/images/avatar.png</logo>
     <icon>https://stenguld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, StenGuld</rights>
+    <entry>
+        <title type="html"><![CDATA[第9天]]></title>
+        <id>https://stenguld.github.io/post/di-9-tian/</id>
+        <link href="https://stenguld.github.io/post/di-9-tian/">
+        </link>
+        <updated>2022-04-21T14:05:25.000Z</updated>
+        <content type="html"><![CDATA[<p>上课——吃饭——上课——上课——吃饭<br>
+开始了<br>
+又开始了<br>
+蠢蠢欲动<br>
+内心烦躁不安<br>
+哎<br>
+反人性的玩意<br>
+我不知道我能不能顶得住<br>
+才第9天<br>
+越来越短<br>
+谁能告诉该怎么办<br>
+就像漩涡一样<br>
+越陷越深<br>
+我凝视深渊时<br>
+深渊也在凝视我<br>
+放下、放下、再放下<br>
+我今天做到了吗                  不确定<br>
+我今天还有什么不足之处      胆气与勇气<br>
+我明天有何安排                  调整自我</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第8天]]></title>
         <id>https://stenguld.github.io/post/di-8-tian/</id>
