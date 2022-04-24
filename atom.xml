@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stenguld.github.io</id>
     <title>StenGuld</title>
-    <updated>2022-04-21T15:22:58.899Z</updated>
+    <updated>2022-04-24T12:33:02.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stenguld.github.io"/>
     <link rel="self" href="https://stenguld.github.io/atom.xml"/>
@@ -10,6 +10,71 @@
     <logo>https://stenguld.github.io/images/avatar.png</logo>
     <icon>https://stenguld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, StenGuld</rights>
+    <entry>
+        <title type="html"><![CDATA[第12天]]></title>
+        <id>https://stenguld.github.io/post/di-12-tian/</id>
+        <link href="https://stenguld.github.io/post/di-12-tian/">
+        </link>
+        <updated>2022-04-24T12:27:27.000Z</updated>
+        <content type="html"><![CDATA[<p>今天是第2天<br>
+早上6点半就醒来<br>
+7点去食堂<br>
+吃完早点<br>
+回到203<br>
+看球赛<br>
+统计名单<br>
+睡了午觉<br>
+下午做核酸<br>
+下午五点去送饭<br>
+送完饭回到203<br>
+吃完晚饭<br>
+出去走走<br>
+8点左右回到203<br>
+明天开始上课了<br>
+我不知道这两者我该如何平衡<br>
+我能否实现自己点初衷<br>
+但愿如此吧</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第11天]]></title>
+        <id>https://stenguld.github.io/post/di-11-tian/</id>
+        <link href="https://stenguld.github.io/post/di-11-tian/">
+        </link>
+        <updated>2022-04-23T12:20:02.000Z</updated>
+        <content type="html"><![CDATA[<p>今天应该是第1天<br>
+学校的通知真的让人摸不着头脑<br>
+一会儿要开会<br>
+一会儿推迟<br>
+早上开完会<br>
+通知要搬行李<br>
+但是我的行李被拉到了雅安居<br>
+想进去拿却进不去<br>
+最后只能用自己现在的行李<br>
+一天跑上跑下<br>
+烈日炎炎<br>
+一趟就是半小时<br>
+真的很累<br>
+也无语<br>
+现在每天都要到下面去住了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第10天]]></title>
+        <id>https://stenguld.github.io/post/di-10-tian/</id>
+        <link href="https://stenguld.github.io/post/di-10-tian/">
+        </link>
+        <updated>2022-04-22T12:14:36.000Z</updated>
+        <content type="html"><![CDATA[<p>还是没做到<br>
+唉<br>
+真的很难<br>
+我还在已经不责备自己了<br>
+我还在在想<br>
+是否应该放弃挣扎<br>
+今天报名志愿者<br>
+就这样吧</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第9天]]></title>
         <id>https://stenguld.github.io/post/di-9-tian/</id>
@@ -210,71 +275,6 @@
 我今天做到了吗？          做到了<br>
 我还有什么不足之处？    时间分配不均衡<br>
 我明天有何安排？          如果鞋晒干了就去爬旗山、否则就认真学习，下午打打球、散步都可以。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2天]]></title>
-        <id>https://stenguld.github.io/post/di-2-tian/</id>
-        <link href="https://stenguld.github.io/post/di-2-tian/">
-        </link>
-        <updated>2022-04-14T15:18:47.000Z</updated>
-        <content type="html"><![CDATA[<p>上课——吃饭——睡觉——上课——散步——吃饭——学习<br>
-日复一日<br>
-我不要自由自在的生活<br>
-我需要井然有序的生活<br>
-只有这样<br>
-我的每一天才能过得充实<br>
-如果让我自由安排<br>
-我的每一天都会是昨天的重复<br>
-而且是无意义的循环往复<br>
-我真的需要一种充实的状态<br>
-每一分<br>
-每一天<br>
-我不祈求你一整天都用在学习上<br>
-但是我需要看到你每一天都花时间在学习上<br>
-比如今天<br>
-只要你愿意学习<br>
-时间总是有的<br>
-无论你学习代码<br>
-还是学习音乐<br>
-只要你在做有意义的事<br>
-那就是我希望的样子<br>
-每日问问自己<br>
-我今天做到了吗？          做到了<br>
-我还有什么不足之处？    还需要具体详细的规划<br>
-我明天有何安排？          洗衣服、上课、学习</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第1天]]></title>
-        <id>https://stenguld.github.io/post/di-yi-tian/</id>
-        <link href="https://stenguld.github.io/post/di-yi-tian/">
-        </link>
-        <updated>2022-04-13T12:41:46.000Z</updated>
-        <content type="html"><![CDATA[<p>该说的 都说了<br>
-你懂得 就够了<br>
-真的有 某一种悲哀<br>
-连说也不想说<br>
-只能 叹息<br>
-我最大的悲哀<br>
-是你的承诺 与我有关<br>
-没有句点 已经很无语了<br>
-何必重新 开始<br>
-没做到<br>
-还能说什么呢<br>
-我连 伤感 都是<br>
-奢侈的<br>
-我一悔恨 你就重复<br>
-但终究 你都不能<br>
-让我到 回不去的 曾经<br>
-原来我不快乐<br>
-只是不愿承认<br>
-在我怀疑 自己时<br>
-你给过我 什么<br>
-我感觉到绝望<br>
-是看见你失败<br>
-曾经亲手把自己毁掉<br>
-可惜我 没有了 机会</p>
 ]]></content>
     </entry>
 </feed>
