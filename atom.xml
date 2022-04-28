@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stenguld.github.io</id>
     <title>StenGuld</title>
-    <updated>2022-04-24T12:33:02.697Z</updated>
+    <updated>2022-04-28T02:49:35.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stenguld.github.io"/>
     <link rel="self" href="https://stenguld.github.io/atom.xml"/>
@@ -10,6 +10,85 @@
     <logo>https://stenguld.github.io/images/avatar.png</logo>
     <icon>https://stenguld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, StenGuld</rights>
+    <entry>
+        <title type="html"><![CDATA[第15天]]></title>
+        <id>https://stenguld.github.io/post/di-15-tian/</id>
+        <link href="https://stenguld.github.io/post/di-15-tian/">
+        </link>
+        <updated>2022-04-27T02:38:24.000Z</updated>
+        <content type="html"><![CDATA[<p>今天星期三<br>
+早上送餐<br>
+中午接到通知重新调整<br>
+何去何从<br>
+中午归零<br>
+下午负责人开始询问<br>
+晚上门卫告知不能进出大门<br>
+一切还未开始<br>
+接下来该怎么办呢<br>
+时间与空间<br>
+鱼与熊掌不可兼得<br>
+我只能选择对我想要的一面<br>
+班级<br>
+还有学校<br>
+还有自己<br>
+如何平衡<br>
+这学期我的任务是些啥<br>
+我又能完成吗<br>
+目前的形式<br>
+教资放弃<br>
+计算机放弃<br>
+还剩四六级<br>
+距离考试还有44天<br>
+我能完成任务吗<br>
+我希望我能调整过来<br>
+去完成自己的愿望<br>
+相信自己<br>
+一定可以的</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第14天]]></title>
+        <id>https://stenguld.github.io/post/di-14-tian/</id>
+        <link href="https://stenguld.github.io/post/di-14-tian/">
+        </link>
+        <updated>2022-04-26T02:33:15.000Z</updated>
+        <content type="html"><![CDATA[<p>今天星期二<br>
+和昨天一样<br>
+送餐——上课——送餐<br>
+不是在送餐<br>
+就是在送餐的路上<br>
+这样的日子何时才是个头呀<br>
+好在晚上没有课<br>
+但是晚上还得回宿舍<br>
+为什么一切和我想的不一样呢</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第13天]]></title>
+        <id>https://stenguld.github.io/post/di-13-tian/</id>
+        <link href="https://stenguld.github.io/post/di-13-tian/">
+        </link>
+        <updated>2022-04-25T02:25:32.000Z</updated>
+        <content type="html"><![CDATA[<p>今天是星期一<br>
+早上7点送早点<br>
+8点上课<br>
+早上的课还没上完<br>
+又要下去送午餐<br>
+送完午餐回来睡个午觉<br>
+下午接着上课<br>
+3点下去做核酸<br>
+4点左右准备送餐<br>
+5点吃饭<br>
+7点上课<br>
+9点回宿舍<br>
+这就是我的一天<br>
+除此之外<br>
+还拿快递<br>
+统计教材<br>
+空间有了<br>
+但时间没了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第12天]]></title>
         <id>https://stenguld.github.io/post/di-12-tian/</id>
@@ -188,93 +267,6 @@
 今天我做到了吗              做到了<br>
 我还有什么不足之处？     缺乏合理安排与调整的能力<br>
 我明天有何安排？           希望能将杂乱无章的事情一一解决</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第5天]]></title>
-        <id>https://stenguld.github.io/post/di-5-tian/</id>
-        <link href="https://stenguld.github.io/post/di-5-tian/">
-        </link>
-        <updated>2022-04-17T15:07:48.000Z</updated>
-        <content type="html"><![CDATA[<p>阅读——吃饭——看视频——睡午觉——吃饭——散步——学习<br>
-昨天的计划被打乱<br>
-今早从雨声中惊醒过来<br>
-准备收鞋却早被打湿<br>
-计划被打乱<br>
-看了一节《百年孤独》<br>
-又看了一集视频解析<br>
-睡了一个午觉<br>
-醒来发现又开始下雨了<br>
-延迟到下午的计划也泡汤了<br>
-没有办法<br>
-只能下次有空再去旗山了<br>
-但是我还是要出去走走<br>
-于是吃完饭就沿着前程大道散步<br>
-直到晚上九点多才返回<br>
-今天步数突破了2万步<br>
-回来后又继续学习<br>
-此时已是将近11点半<br>
-这就是一天<br>
-还是一样的问题<br>
-琐碎时间太多<br>
-没有合理安排好任务点<br>
-希望能尽快调整<br>
-我今天做到了吗？            做到了<br>
-我还有什么不足之处？      做事考虑不周全，计划混乱、没有条理<br>
-我明天有何安排？            早中晚满课，但是尽量抽出时间来学习</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第4天]]></title>
-        <id>https://stenguld.github.io/post/di-4-tian/</id>
-        <link href="https://stenguld.github.io/post/di-4-tian/">
-        </link>
-        <updated>2022-04-16T15:36:32.000Z</updated>
-        <content type="html"><![CDATA[<p>看球赛——吃饭——阅读——睡午觉——阅读——吃饭——学习<br>
-今天星期六<br>
-早晨看了附加赛<br>
-看完比赛吃完饭<br>
-看了一会儿书<br>
-就睡了午觉<br>
-睡到下午7点左右<br>
-醒来又看了一会儿书<br>
-晚上吃完饭<br>
-继续学习<br>
-一天点时间就这样匆匆过去<br>
-没有计划安排好的任务就是这样的盲目<br>
-让每一天都如此散漫<br>
-虚度光阴<br>
-浪费时间<br>
-就这样吧<br>
-希望你能尽快调整过来<br>
-我今天做到了吗？        做到了<br>
-我还有什么不足之处？  缺乏紧迫感和行动力<br>
-我明天有何安排？        爬旗山，完成昨天没有完成都任务，学习、学习、再学习</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第3天]]></title>
-        <id>https://stenguld.github.io/post/di-3-tian/</id>
-        <link href="https://stenguld.github.io/post/di-3-tian/">
-        </link>
-        <updated>2022-04-15T15:37:25.000Z</updated>
-        <content type="html"><![CDATA[<p>洗衣服——上课——打扫房间——阅读——购物——吃饭——学习<br>
-今天星期五<br>
-中规中矩的一天<br>
-中午没有睡午觉<br>
-下课上网课<br>
-讲了将近二十分钟<br>
-也不知道何时多了一个人<br>
-傍晚时分<br>
-下起了大雨<br>
-我坐在窗前<br>
-伴随着雨声<br>
-阅读《百年孤独》<br>
-晚上学语言<br>
-这就是我的一天<br>
-我今天做到了吗？          做到了<br>
-我还有什么不足之处？    时间分配不均衡<br>
-我明天有何安排？          如果鞋晒干了就去爬旗山、否则就认真学习，下午打打球、散步都可以。</p>
 ]]></content>
     </entry>
 </feed>
