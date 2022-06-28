@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://stenguld.github.io</id>
     <title>StenGuld</title>
-    <updated>2022-04-28T02:49:35.038Z</updated>
+    <updated>2022-06-28T05:50:56.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://stenguld.github.io"/>
     <link rel="self" href="https://stenguld.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://stenguld.github.io/images/avatar.png</logo>
     <icon>https://stenguld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, StenGuld</rights>
+    <entry>
+        <title type="html"><![CDATA[第1天]]></title>
+        <id>https://stenguld.github.io/post/di-1-tian/</id>
+        <link href="https://stenguld.github.io/post/di-1-tian/">
+        </link>
+        <updated>2022-06-28T05:50:23.000Z</updated>
+        <content type="html"><![CDATA[<p>当一起归于平淡</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第15天]]></title>
         <id>https://stenguld.github.io/post/di-15-tian/</id>
@@ -243,30 +252,6 @@
 今天我做到了吗             做到了<br>
 我还有什么不足之处       拖延、懒散、不积极<br>
 我明天有何安排             上课、学习</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第6天]]></title>
-        <id>https://stenguld.github.io/post/di-liu-tian/</id>
-        <link href="https://stenguld.github.io/post/di-liu-tian/">
-        </link>
-        <updated>2022-04-18T15:44:15.000Z</updated>
-        <content type="html"><![CDATA[<p>上课——吃饭——睡午觉——上课——吃饭——上课<br>
-了解到即将开学的消息<br>
-内心充满了惶恐与不安<br>
-有太多未做的事<br>
-有太多未知的事<br>
-早晨上完课去买菜<br>
-天空中细雨绵绵<br>
-回来吃完饭躺一会儿就到下午上课时间了<br>
-下午上完课还有晚上<br>
-忙碌而又枯燥的生活<br>
-头脑一片混乱<br>
-生活变得杂乱无章<br>
-希望早点变好吧<br>
-今天我做到了吗              做到了<br>
-我还有什么不足之处？     缺乏合理安排与调整的能力<br>
-我明天有何安排？           希望能将杂乱无章的事情一一解决</p>
 ]]></content>
     </entry>
 </feed>
